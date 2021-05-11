@@ -1,0 +1,15 @@
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Calculador Parâmetros Proteinas\bin\Debug\netcoreapp3.1\Parâmetros Proteinas.exe
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Calculador Parâmetros Proteinas\bin\Debug\netcoreapp3.1\Parâmetros Proteinas.deps.json
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Calculador Parâmetros Proteinas\bin\Debug\netcoreapp3.1\Parâmetros Proteinas.runtimeconfig.json
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Calculador Parâmetros Proteinas\bin\Debug\netcoreapp3.1\Parâmetros Proteinas.runtimeconfig.dev.json
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Calculador Parâmetros Proteinas\bin\Debug\netcoreapp3.1\Parâmetros Proteinas.dll
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Calculador Parâmetros Proteinas\bin\Debug\netcoreapp3.1\Parâmetros Proteinas.pdb
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Calculador Parâmetros Proteinas\obj\Debug\netcoreapp3.1\Parâmetros Proteinas.csprojAssemblyReference.cache
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Calculador Parâmetros Proteinas\obj\Debug\netcoreapp3.1\ParametrosProteinas.Form1.resources
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Calculador Parâmetros Proteinas\obj\Debug\netcoreapp3.1\Parâmetros Proteinas.csproj.GenerateResource.cache
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Calculador Parâmetros Proteinas\obj\Debug\netcoreapp3.1\Parâmetros Proteinas.AssemblyInfoInputs.cache
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Calculador Parâmetros Proteinas\obj\Debug\netcoreapp3.1\Parâmetros Proteinas.AssemblyInfo.cs
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Calculador Parâmetros Proteinas\obj\Debug\netcoreapp3.1\Parâmetros Proteinas.csproj.CoreCompileInputs.cache
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Calculador Parâmetros Proteinas\obj\Debug\netcoreapp3.1\Parâmetros Proteinas.dll
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Calculador Parâmetros Proteinas\obj\Debug\netcoreapp3.1\Parâmetros Proteinas.pdb
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Calculador Parâmetros Proteinas\obj\Debug\netcoreapp3.1\Parâmetros Proteinas.genruntimeconfig.cache

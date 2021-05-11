@@ -1,0 +1,5 @@
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Calculador Parâmetros Proteinas\bin\Release\netcoreapp3.1\publish\Parâmetros Proteinas.exe
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Calculador Parâmetros Proteinas\bin\Release\netcoreapp3.1\publish\Parâmetros Proteinas.dll
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Calculador Parâmetros Proteinas\bin\Release\netcoreapp3.1\publish\Parâmetros Proteinas.deps.json
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Calculador Parâmetros Proteinas\bin\Release\netcoreapp3.1\publish\Parâmetros Proteinas.runtimeconfig.json
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Calculador Parâmetros Proteinas\bin\Release\netcoreapp3.1\publish\Parâmetros Proteinas.pdb

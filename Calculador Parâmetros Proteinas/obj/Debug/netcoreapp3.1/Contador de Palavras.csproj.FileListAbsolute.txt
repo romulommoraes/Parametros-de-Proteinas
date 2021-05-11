@@ -1,0 +1,30 @@
+C:\Users\Rômulo Maciel\source\repos\Contador de Palavras\Contador de Palavras\bin\Debug\netcoreapp3.1\Contador de Palavras.exe
+C:\Users\Rômulo Maciel\source\repos\Contador de Palavras\Contador de Palavras\bin\Debug\netcoreapp3.1\Contador de Palavras.deps.json
+C:\Users\Rômulo Maciel\source\repos\Contador de Palavras\Contador de Palavras\bin\Debug\netcoreapp3.1\Contador de Palavras.runtimeconfig.json
+C:\Users\Rômulo Maciel\source\repos\Contador de Palavras\Contador de Palavras\bin\Debug\netcoreapp3.1\Contador de Palavras.runtimeconfig.dev.json
+C:\Users\Rômulo Maciel\source\repos\Contador de Palavras\Contador de Palavras\bin\Debug\netcoreapp3.1\Contador de Palavras.dll
+C:\Users\Rômulo Maciel\source\repos\Contador de Palavras\Contador de Palavras\bin\Debug\netcoreapp3.1\Contador de Palavras.pdb
+C:\Users\Rômulo Maciel\source\repos\Contador de Palavras\Contador de Palavras\obj\Debug\netcoreapp3.1\Contador de Palavras.csprojAssemblyReference.cache
+C:\Users\Rômulo Maciel\source\repos\Contador de Palavras\Contador de Palavras\obj\Debug\netcoreapp3.1\Contador_de_Palavras.Form1.resources
+C:\Users\Rômulo Maciel\source\repos\Contador de Palavras\Contador de Palavras\obj\Debug\netcoreapp3.1\Contador de Palavras.csproj.GenerateResource.cache
+C:\Users\Rômulo Maciel\source\repos\Contador de Palavras\Contador de Palavras\obj\Debug\netcoreapp3.1\Contador de Palavras.AssemblyInfoInputs.cache
+C:\Users\Rômulo Maciel\source\repos\Contador de Palavras\Contador de Palavras\obj\Debug\netcoreapp3.1\Contador de Palavras.AssemblyInfo.cs
+C:\Users\Rômulo Maciel\source\repos\Contador de Palavras\Contador de Palavras\obj\Debug\netcoreapp3.1\Contador de Palavras.csproj.CoreCompileInputs.cache
+C:\Users\Rômulo Maciel\source\repos\Contador de Palavras\Contador de Palavras\obj\Debug\netcoreapp3.1\Contador de Palavras.dll
+C:\Users\Rômulo Maciel\source\repos\Contador de Palavras\Contador de Palavras\obj\Debug\netcoreapp3.1\Contador de Palavras.pdb
+C:\Users\Rômulo Maciel\source\repos\Contador de Palavras\Contador de Palavras\obj\Debug\netcoreapp3.1\Contador de Palavras.genruntimeconfig.cache
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Contador de Palavras\bin\Debug\netcoreapp3.1\Contador de Palavras.exe
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Contador de Palavras\bin\Debug\netcoreapp3.1\Contador de Palavras.deps.json
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Contador de Palavras\bin\Debug\netcoreapp3.1\Contador de Palavras.runtimeconfig.json
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Contador de Palavras\bin\Debug\netcoreapp3.1\Contador de Palavras.runtimeconfig.dev.json
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Contador de Palavras\bin\Debug\netcoreapp3.1\Contador de Palavras.dll
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Contador de Palavras\bin\Debug\netcoreapp3.1\Contador de Palavras.pdb
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Contador de Palavras\obj\Debug\netcoreapp3.1\Contador de Palavras.csprojAssemblyReference.cache
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Contador de Palavras\obj\Debug\netcoreapp3.1\Contador_de_Palavras.Form1.resources
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Contador de Palavras\obj\Debug\netcoreapp3.1\Contador de Palavras.csproj.GenerateResource.cache
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Contador de Palavras\obj\Debug\netcoreapp3.1\Contador de Palavras.AssemblyInfoInputs.cache
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Contador de Palavras\obj\Debug\netcoreapp3.1\Contador de Palavras.AssemblyInfo.cs
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Contador de Palavras\obj\Debug\netcoreapp3.1\Contador de Palavras.csproj.CoreCompileInputs.cache
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Contador de Palavras\obj\Debug\netcoreapp3.1\Contador de Palavras.dll
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Contador de Palavras\obj\Debug\netcoreapp3.1\Contador de Palavras.pdb
+C:\Users\Rômulo Maciel\source\repos\Proteoma\Contador de Palavras\obj\Debug\netcoreapp3.1\Contador de Palavras.genruntimeconfig.cache
